@@ -2,7 +2,7 @@ Implementation of some common Unix command line tool in Golang following the cha
 
 
 TODO:
-- [ ] wc
+- [x] wc
 - [ ] cut
 - [ ] sort
 - [ ] grep
